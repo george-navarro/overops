@@ -9,7 +9,7 @@
 
 FROM centos:7
 
-MAINTAINER George Navarro "http://www.overops.com/"
+MAINTAINER George Navarro "https://github.com/george-navarro/overops"
 
 RUN yum install -y java-1.8.0-openjdk.x86_64
 #RUN yum install -y wget
